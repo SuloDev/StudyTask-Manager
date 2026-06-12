@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icon/addTaskIcon.png</file>
+        <file>icon/completedTaskIcon.png</file>
+        <file>icon/deleteTaskIcon.png</file>
+        <file>icon/editTaskIcon.png</file>
+        <file>icon/saveTaskIcon.png</file>
+        <file>icon/appicon.ico</file>
+        <file>icon/appicon.png</file>
+    </qresource>
+</RCC>
